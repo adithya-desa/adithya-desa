@@ -18,7 +18,7 @@ Currently exploring **Software Engineering, AI-based systems, and Web Developmen
 
 ### A Bit About Me
 
-- 🎓 B.Tech CSE (CGPA: 9.15)  
+- 🎓 B.Tech CSE (CGPA: 9.17)  
 - 🚀 Built a real-time Expense Tracking System  
 - 🌾 Developed a IOT-based Flood monitoring System
 - 🌐 Portfolio: www.adithyadesa.online 
